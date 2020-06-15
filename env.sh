@@ -1,5 +1,5 @@
-export DBHOST="localhost"
+export DBHOST="istahipostgres.postgres.database.azure.com"
 export DBUSER="manager"
 export DBNAME="pollsdb"
-export DBPASS="supersecretpass"
+export DBPASS="Root@123"
 
