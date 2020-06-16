@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'istahipythontest'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ef8854b764364a6f80878e4d2714a142 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6590ede93c884b65bfd464b25c8261b4 }}
